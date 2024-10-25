@@ -95,3 +95,76 @@
     </div>
 </body>
 </html>
+
+
+/* This is code for "CSS" */
+.name_color{
+color: blue;
+}
+.container {
+    background-color: black;
+    height: 100vh;
+    background-size: cover;
+}
+.main-heading{
+    color: orange;
+    font-family: "playfair Display";
+    font-weight: bold;
+    font-size: 60px;    
+}
+.heading{
+    color: white;
+    font-family: "roboto";
+    font-weight: bold;
+    margin: 30px;
+    font-size: 60px;
+    padding:10px;
+}
+.name2-color{
+    color: red;
+}
+.image{
+    height: 350px;
+    width: 350px;
+    margin: 20px;
+}
+.second-heading{
+    color: yellow;
+    font-family: "playfair Display";
+    font-weight: bold;
+    text-align: center;
+    font-size: 60px;
+}
+.card-heading{
+    color: pink;
+    font-size: 40px;
+}
+.small-heading{
+    color: white;
+    font-size: 20px;
+    margin-bottom: 10px;
+    padding: 0px;
+    text-decoration: underline;
+}
+p{
+    color: gray;
+    padding: 0px;   
+}
+.small-color{
+color: lightseagreen;
+padding: 0px;
+}
+.order{
+    list-style-type: disc;
+     color: white;
+}
+.bi-envelope{
+    height: 40px;
+    width: 40px;
+    color: red;
+}
+.Contact-color{
+    color: limegreen;
+    margin-left: 20px;
+
+}
