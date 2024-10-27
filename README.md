@@ -3,7 +3,7 @@ Company : CODTECH IT SOLUTIONS
 ID : CT08DS9018
 Domain : FRONTEND WEB DEVELOPMENT
 Duration : OCTOBER 10th,2024 TO NOVEMBER 10th,2024
-Mentor : 
+Mentor :  Neela Santhosh Kumar
   Overview of the Project
    -> Project : PERSONAL PORTFOLIO WEBSITE
    -> Objective :
